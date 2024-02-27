@@ -24,3 +24,5 @@ $$\begin{cases}
 x_1+0x_2 >= 0\\
 0x_1+x_2 >= 0\\
 \end{cases}$$
+# Результат
+![image](https://github.com/MaksRRR/MM-DSS/assets/48559366/d47b11c2-312a-4386-9a10-e654091d5876)
