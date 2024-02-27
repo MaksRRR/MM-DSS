@@ -7,5 +7,8 @@
 - Расчитать параметры u, p для первого шага
 - Расчитать параметры u, p циклично до выполнения условия
 # Пример
-![image](https://github.com/MaksRRR/MM-DSS/assets/48559366/f9851957-cd75-4d55-a5a6-e1fe7009be0b)
+![image](https://github.com/MaksRRR/MM-DSS/assets/48559366/45152573-5e08-4848-ae53-434c6103ef01)
+![image](https://github.com/MaksRRR/MM-DSS/assets/48559366/4454a1d8-febf-4f6e-b049-49162212c699)
+![image](https://github.com/MaksRRR/MM-DSS/assets/48559366/7289b976-4f96-4dca-b7f4-26aea25f34b1)
+
 
